@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hazarkocer600-cell.github.io/ko-ertesisat/sitemap.xml
